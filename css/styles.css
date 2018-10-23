@@ -1,0 +1,51 @@
+body{
+  background-color: lightgrey;
+  background-repeat:space;
+  background-size: auto;
+}
+.font{
+  background-color: lightgrey;
+   width: 330px;
+   border: 8px solid green;
+   border-radius: 10px;
+   padding-left:  10px;
+   padding-right: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-top: 50px;
+   margin-left: 500px;
+   height: 450px;
+   text-align: center;
+
+}
+.img{
+  width: 55px;
+  border-radius: 50%;
+  height: 55px;
+}
+.uname{
+  border-radius: 10px;
+  text-align: center;
+  border:4px solid red;
+}
+.email{
+  border-radius:10px;
+  text-align: center;
+  border: 4px solid red;
+}
+.password{
+  border-radius: 10px;
+  text-align: center;
+  border: 4px solid red;
+}
+.button{
+  width: 100px;
+  border-radius: 10px;
+  border-color: blue;
+
+}
+.sign{
+  font-style: italic;
+  float: left;
+  padding-top:20px;
+}
